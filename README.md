@@ -6,7 +6,7 @@
 
 
 ## イメージ
-
+<img width="472" alt="スクリーンショット 2024-10-12 224945" src="https://github.com/user-attachments/assets/de503f62-22cb-43a3-aefe-3815f0b0634a">
 
 
 ## 実行方法
